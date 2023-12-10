@@ -1,16 +1,15 @@
-### Hi there 👋
+## 🌸 Hi! I'm Mia!
 
-<!--
-**puellaexmachina/puellaexmachina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student working towards a CS degree -- however on my spare time I'm usually messing around with stuff here.
 
-Here are some ideas to get you started:
+#### What I'm working on right now:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CS homework, probably
+- Personal website
+  
+#### My coding stats (click for WakaTime profile):
+
+[![Mia's WakaTime Stats LightMode](https://github-readme-stats.vercel.app/api/wakatime?username=puellaexmachina&layout=compact&border_radius=10&theme=default#gh-light-mode-only)](https://wakatime.com/@puellaexmachina#gh-light-mode-only)
+[![Mia's WakaTime Stats DarkMode](https://github-readme-stats.vercel.app/api/wakatime?username=puellaexmachina&layout=compact&border_radius=10&theme=dark#gh-dark-mode-only)](https://wakatime.com/@puellaexmachina#gh-dark-mode-only)
+
+Website: https://miaschultz.net | Matrix Contact: [@puellaexmachina:matrix.org](https://matrix.to/#/@puellaexmachina:matrix.org) | For my email contact, check my GitHub profile.
