@@ -7,7 +7,7 @@ I'm a college student working towards a CS degree -- however on my spare time I'
 - CS homework, probably
 - Personal website
   
-#### My coding stats (click for WakaTime profile):
+#### My coding stats (also includes time on LeetCode):
 
 [![Mia's WakaTime Stats LightMode](https://github-readme-stats.vercel.app/api/wakatime?username=puellaexmachina&layout=compact&border_radius=10&theme=default#gh-light-mode-only)](https://wakatime.com/@puellaexmachina#gh-light-mode-only)
 [![Mia's WakaTime Stats DarkMode](https://github-readme-stats.vercel.app/api/wakatime?username=puellaexmachina&layout=compact&border_radius=10&theme=dark#gh-dark-mode-only)](https://wakatime.com/@puellaexmachina#gh-dark-mode-only)
